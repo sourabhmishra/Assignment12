@@ -1,4 +1,4 @@
-var calculator = require('./calculator.js');
+var calculator = require('./CalculatorModule.js');
 var rs = require('readline-sync');
 
 //Calculator

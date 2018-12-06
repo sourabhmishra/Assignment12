@@ -1,7 +1,7 @@
 var calculator = {
 
     add: function(x,y){
-    console.log(x + y);
+    console.log(+x + +y);
     },
     
     subtract: function(x,y){
